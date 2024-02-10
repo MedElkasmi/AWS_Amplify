@@ -1,0 +1,14 @@
+{
+  "resourceName": "elkasmi",
+  "policyUUID": "226227f7",
+  "bucketName": "elkasmidata",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
